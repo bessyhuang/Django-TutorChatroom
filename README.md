@@ -1,6 +1,14 @@
 # Django-TutorChatroom
 A TutorChatroom System, which can collect the conversation message between teacher and students, build with Django framework and integrate Google Dialogflow.
 
+## Install packages
+
+```
+pip install django
+pip install -U channels
+pip install channels_redis
+```
+
 ## (Windows) Download Redis-x64-3.2.100.msi
 
 * https://redis.io/
