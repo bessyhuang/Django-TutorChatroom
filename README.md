@@ -4,9 +4,9 @@ A TutorChatroom System, which can collect the conversation message between teach
 ## Install packages
 
 ```
-pip install django
-pip install -U channels
-pip install channels_redis
+$ pip install django
+$ pip install -U channels
+$ pip install channels_redis
 ```
 
 ## (Windows) Download Redis-x64-3.2.100.msi
